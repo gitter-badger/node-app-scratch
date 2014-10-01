@@ -1,4 +1,5 @@
 # UXE - Node app from scratch
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nklunder/node-app-scratch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 For this assignment, students will be required to build a simple Node example project. Students are to guild a Grunt script that includes libsass. Include JavaScript(jQuery) and hopefully prepare for deployment to Heroku.
 
